@@ -1,1 +1,1 @@
-<?php echo "Fichero de prueba\n"; ?>
+<?php echo "Fichero de prueba modificado\n"; ?>
